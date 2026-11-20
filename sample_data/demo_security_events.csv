@@ -1,0 +1,21 @@
+timestamp,event_id,username,source_ip,hostname,message
+2026-11-14T09:00:00+00:00,4625,alex,198.51.100.24,DC-01,Logon failure
+2026-11-14T09:01:00+00:00,4625,maria,198.51.100.24,DC-01,Logon failure
+2026-11-14T09:02:00+00:00,4625,sam,198.51.100.24,DC-01,Logon failure
+2026-11-14T09:03:00+00:00,4625,lee,198.51.100.24,DC-01,Logon failure
+2026-11-14T09:04:00+00:00,4625,nina,198.51.100.24,DC-01,Logon failure
+2026-11-14T09:05:00+00:00,4625,alex,198.51.100.24,DC-01,Logon failure
+2026-11-14T09:06:00+00:00,4625,maria,198.51.100.24,DC-01,Logon failure
+2026-11-14T09:07:00+00:00,4625,sam,198.51.100.24,DC-01,Logon failure
+2026-11-14T10:10:00+00:00,4625,administrator,203.0.113.77,APP-02,Logon failure
+2026-11-14T10:11:00+00:00,4625,administrator,203.0.113.77,APP-02,Logon failure
+2026-11-14T10:12:00+00:00,4625,administrator,203.0.113.77,APP-02,Logon failure
+2026-11-14T10:13:00+00:00,4625,administrator,203.0.113.77,APP-02,Logon failure
+2026-11-14T10:14:00+00:00,4625,administrator,203.0.113.77,APP-02,Logon failure
+2026-11-14T10:15:00+00:00,4624,administrator,203.0.113.77,APP-02,Successful logon
+2026-11-14T10:16:00+00:00,4672,administrator,203.0.113.77,APP-02,Special privileges assigned
+2026-11-14T11:32:00+00:00,4720,svc-backup,,DC-01,New account created
+2026-11-14T11:35:00+00:00,4728,svc-backup,,DC-01,Member added to privileged group
+2026-11-14T11:40:00+00:00,1102,unknown,,DC-01,Audit log was cleared
+2026-11-14T12:05:00+00:00,4624,alex,192.0.2.10,LAPTOP-01,Successful logon
+2026-11-14T12:09:00+00:00,4625,guest,192.0.2.10,LAPTOP-01,Logon failure
